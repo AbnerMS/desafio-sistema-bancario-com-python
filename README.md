@@ -3,7 +3,7 @@ Olá!👋
 
 Este repositório contém o meu projeto referênte ao desafio do curso de Python da [Digital Innovation One](https://web.digitalinnovation.one/home) - "Criando um Sistema Bancário com Python".
 
-O propósito do desafio consite em desenvolver um sistema bancário fictício que realize as operações de "Depósito", "Saque" e "Extrato", obedecendo os seguintes requisitos:
+O propósito do desafio consiste em desenvolver um sistema bancário fictício que realize as operações de "Depósito", "Saque" e "Extrato", obedecendo os seguintes requisitos:
 
 | OPERAÇÃO | REQUISITOS |
 | -------- | ------ |
